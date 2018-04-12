@@ -1,5 +1,5 @@
 
-set(CN_PROJECT_NAME "karbowanec")
-set(CN_CURRENCY_DISPLAY_NAME "Karbo")
-set(CN_CURRENCY_TICKER "KRB")
+set(CN_PROJECT_NAME "uaicoin")
+set(CN_CURRENCY_DISPLAY_NAME "UaiCoin")
+set(CN_CURRENCY_TICKER "UAI")
 set(CN_VERSION 1.2.3)
